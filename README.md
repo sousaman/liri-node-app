@@ -21,3 +21,6 @@ Accepts an additional argument which is then searched on to pull back the infoma
 Accesses the file random.txt. The commands will be run that are entered on each line (If the command accepts additional arguments, separate it from the command with a comma. No spaces between the two)
 
 All commands entered will be stored in a log.txt file
+
+**Be sure to create your own .env file to hold your Spotify and Twitter keys**
+**Be sure to install all of the node packages mentioned above before use**
