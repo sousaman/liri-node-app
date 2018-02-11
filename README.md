@@ -22,5 +22,5 @@ Accesses the file random.txt. The commands will be run that are entered on each 
 
 All commands entered will be stored in a log.txt file
 
-**Be sure to create your own .env file to hold your Spotify and Twitter keys**
-**Be sure to install all of the node packages mentioned above before use**
+**Be sure to create your own .env file to hold your Spotify and Twitter keys and**
+**be sure to install all of the node packages mentioned above before use**
