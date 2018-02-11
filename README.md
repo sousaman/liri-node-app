@@ -1,16 +1,16 @@
 # LIRI Bot
 
-##Description: 
+## Description: 
 LIRI is a Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
 
-##Node Packages: 
+## Node Packages: 
 twitter, node-spotify-api, dotenv, request, fs
-##APIs: 
+## APIs: 
 Spotify, Twitter, OMDB
 
-##General Functionality:
+## General Functionality:
 
-###LIRI can accept 4 commands: 
+### LIRI can accept 4 commands: 
 * my-tweets:
 Will pull the last 20 tweets for a user*
 * spotify-this-song:
